@@ -22,6 +22,7 @@
 - 🔐 **FaceVotingApp** – Face recognition voting system 
 - 🧠 **AI People Counter** – Real-time detection & gender classification
 - 📊 **React Spreadsheet UI** – Custom-built spreadsheet prototype with editable cells and keyboard nav
+-  🌦 **React Weather API** – A simple weather app built with React and OpenWeather API. 
 
 > All my projects are focused on solving real problems with clean, scalable, and efficient code.
 
