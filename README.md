@@ -1,3 +1,7 @@
+
+
+
+
 # 👋 Hi, I'm Umang Kumar  
 
 <p align="center">
@@ -42,12 +46,12 @@ I am a motivated and passionate Computer Science postgraduate student with stron
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=umangkumar0106&show_icons=true&theme=react" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umangkumar0106&theme=react" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangkumar0106&layout=compact&theme=react" height="160"/>
 </p>
 
 ---
