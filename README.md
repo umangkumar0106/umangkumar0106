@@ -1,46 +1,77 @@
-<h1 align="center">Hi, I'm Umang Kumar👋</h1>
+# 👋 Hi, I'm Umang Kumar  
+
 <p align="center">
-  💻 MCA Student • 🛠 Full Stack Developer • 🤖 AI Enthusiast
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;MCA+Student;Problem+Solver;Passionate+Coder" />
 </p>
 
 ---
 
-### 🚀 Tech & Tools
-![C](https://img.shields.io/badge/C-00599C?style=for-the-flate&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-flate&logo=cplusplus&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-flate&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-flate&logo=css3&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-flate&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-flate&logo=bootstrap&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-flate&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-flate&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-flate&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-flate&logo=mongodb&logoColor=white)
----
+## 🌟 About Me  
 
-### 📌 Featured Projects
-- 🔐 **FaceVotingApp** – Face recognition voting system 
-- 🧠 **AI People Counter** – Real-time detection & gender classification
-- 📊 **React Spreadsheet UI** – Custom-built spreadsheet prototype with editable cells and keyboard nav
--  🌦 **React Weather API** – A simple weather app built with React and OpenWeather API. 
-
-> All my projects are focused on solving real problems with clean, scalable, and efficient code.
-
+I am a motivated and passionate Computer Science postgraduate student with strong interest in **Full-Stack Development, Artificial Intelligence, and Software Engineering**. I love building real-world projects and continuously improving my technical and problem-solving skills.
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Skills  
+
+### 💻 Programming  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🌐 Web Development  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### ⚙️ Backend & Database  
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🤖 AI / ML  
+![TensorFlow](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umangkumar0106&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangkumar0106&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react" height="160"/>
 </p>
 
 ---
 
-### 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umangkumar0106/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:umangkr0106@gmail.com)
+## 📌 Projects  
+
+🔐 Face Recognition Voting System  
+👥 AI Person Counter System  
+📝 Blog Website Platform  
 
 ---
 
-> *Code with purpose, build with passion.*
+## 🎯 Career Objective  
+
+To build impactful software solutions while continuously learning and growing as a professional developer.
+
+---
+
+## 📫 Connect With Me  
+
+📧 Email: umangkr0106@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/umangkumar0106/ 
+🌐 Portfolio: your_portfolio_here  
+
+---
+
+⭐ *“Great software is built with passion, patience, and precision.”*
