@@ -29,17 +29,11 @@ I am a motivated and passionate Computer Science postgraduate student with stron
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### ⚙️ Backend & Database  
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🤖 AI / ML  
-![TensorFlow](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
 
@@ -58,9 +52,9 @@ I am a motivated and passionate Computer Science postgraduate student with stron
 
 ## 📌 Projects  
 
-🔐 Face Recognition Voting System  
-👥 AI Person Counter System  
+🔐 Face Recognition Voting System   
 📝 Blog Website Platform  
+⛅ React Weather api
 
 ---
 
@@ -73,7 +67,7 @@ To build impactful software solutions while continuously learning and growing as
 ## 📫 Connect With Me  
 
 📧 Email: umangkr0106@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/umangkumar0106/ 
+💼 LinkedIn: https://www.linkedin.com/in/umangkumar0106/
 🌐 Portfolio: your_portfolio_here  
 
 ---
