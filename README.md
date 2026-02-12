@@ -10,7 +10,7 @@
 
 ## 🌟 About Me  
 
-I am a motivated and passionate Computer Science postgraduate student with strong interest in **Full-Stack Development, Artificial Intelligence, and Software Engineering**. I love building real-world projects and continuously improving my technical and problem-solving skills. okay
+I am a motivated and passionate Computer Science postgraduate student with strong interest in **Full-Stack Development, Artificial Intelligence, and Software Engineering**. I love building real-world projects and continuously improving my technical and problem-solving skills.
 
 ---
 
