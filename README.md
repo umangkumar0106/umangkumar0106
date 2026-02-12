@@ -51,7 +51,7 @@ I am a motivated and passionate Computer Science postgraduate student with stron
 ## 📌 Projects  
 
 🔐 Face Recognition Voting System   
-📝 Blog Website Platform  
+📝 WanderLust-Airbnb Website 
 ⛅ React Weather api
 
 ---
