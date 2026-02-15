@@ -51,7 +51,7 @@ I am a motivated and passionate Computer Science postgraduate student with stron
 ## 📌 Projects  
 
 🔐 Face Recognition Voting System   
-📝 WanderLust-Airbnb Website 
+📝 WanderLust-Airbnb Website          
 ⛅ React Weather api
 
 ---
@@ -65,7 +65,7 @@ To build impactful software solutions while continuously learning and growing as
 ## 📫 Connect With Me  
 
 📧 Email: umangkr0106@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/umangkumar0106/
+💼 LinkedIn: https://www.linkedin.com/in/umangkumar0106/                
 🌐 Portfolio: https://umang-portfolio-dpfos9maf-umangkumar0106s-projects.vercel.app/
 
 ---
