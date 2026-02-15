@@ -1,73 +1,110 @@
+<!-- ===================== HEADER ===================== -->
 
+<h1 align="center">Hi 👋, I'm Umang Kumar</h1>
 
-# 👋 Hi, I'm Umang Kumar  
+<h3 align="center">
+Full Stack Developer • MCA Student • AI Enthusiast • Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MCA+Student;Problem+Solver;Passionate+Coder" />
+  <a href="https://www.linkedin.com/in/umangkumar0106/">
+    <img src="https://img.shields.io/badge/LinkedIn-Umang%20Kumar-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:umangkr0106@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://umang-portfolio-dpfos9maf-umangkumar0106s-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel">
+  </a>
 </p>
 
 ---
 
-## 🌟 About Me  
+## 🚀 About Me  
 
-I am a motivated and passionate Computer Science postgraduate student with strong interest in **Full-Stack Development, Artificial Intelligence, and Software Engineering**. I love building real-world projects and continuously improving my technical and problem-solving skills.
-
----
-
-## 🛠️ Skills  
-
-### 💻 Programming  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🌐 Web Development  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ Backend & Database  
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+🎓 MCA Postgraduate in Computer Science  
+💻 MERN Stack Developer  
+🤖 Passionate about Artificial Intelligence & Software Engineering  
+📈 Building scalable real-world applications  
+🧠 Strong problem-solving mindset & continuous learner  
 
 ---
 
-## 📊 GitHub Stats  
+## 🛠️ Tech Stack  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umangkumar0106&show_icons=true&theme=react" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umangkumar0106&theme=react" height="180"/>
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,java,c" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangkumar0106&layout=compact&theme=react" height="160"/>
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ---
 
-## 📌 Projects  
+## 📌 Featured Projects  
 
-🔐 Face Recognition Voting System   
-📝 WanderLust-Airbnb Website          
-⛅ React Weather api
+🔐 **Face Recognition Voting System**  
+➡️ Secure voting platform using Face Recognition  
+
+🏡 **WanderLust — Airbnb Clone**  
+➡️ Full-stack booking web app with authentication & database  
+
+⛅ **React Weather App**  
+➡️ Real-time weather data using external API  
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umangkumar0106&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+   <img src="https://streak-stats.demolab.com?user=umangkumar0106&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangkumar0106&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
+</p>
+
+---
+
+## 🏆 Achievements & Activity  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umangkumar0106&theme=flat&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 🔥 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umangkumar0106&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 ## 🎯 Career Objective  
 
-To build impactful software solutions while continuously learning and growing as a professional developer.
+To design impactful software solutions and grow as a professional developer while contributing to innovative organizations.
 
 ---
 
 ## 📫 Connect With Me  
 
 📧 Email: umangkr0106@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/umangkumar0106/                
-🌐 Portfolio: https://umang-portfolio-dpfos9maf-umangkumar0106s-projects.vercel.app/
+💼 LinkedIn: https://www.linkedin.com/in/umangkumar0106/  
+🌐 Portfolio: https://umang-portfolio-dpfos9maf-umangkumar0106s-projects.vercel.app/  
 
 ---
 
-⭐ *“Great software is built with passion, patience, and precision.”*
+<p align="center">
+⭐ <b>"Great software is built with passion, patience, and precision."</b>
+</p>
