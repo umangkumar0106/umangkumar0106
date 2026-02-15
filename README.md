@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Umang Kumar</h1>
 
 <h3 align="center">
-Full Stack Developer • MCA Student • AI Enthusiast • Problem Solver
+Full Stack Developer • MCA Student • Problem Solver
 </h3>
 
 <p align="center">
