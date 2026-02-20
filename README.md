@@ -9,7 +9,7 @@
 
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-000?style=for-the-badge)](https://umang-portfolio-sandy-two.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-000?style=for-the-badge)](https://umangportfolio-theta.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/umangkumar0106)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/umang_kr_0106)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:umangkr0106@gmail.com)
